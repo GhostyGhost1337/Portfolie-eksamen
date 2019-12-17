@@ -59,15 +59,30 @@ li a:hover {
     grid-column: 1fr;
     grid-template-areas: 
     "menu"
+    "intro"
     "overskrift"
     "htmloverskrift"
     "htmltekst"
     "cssoverskrift"
-    "csstekst";
+    "csstekst"
+    "ovelse1nocss"
+    "nocsspicture"
+    "ovelse1medcss"
+    "csspicture"
+    "workshop"
+    "workshoppicture"
+    "grid"
+    "onepage"
+    "onepagebilled";
+    
 }
 
 #menu {
     grid-area: menu;
+}
+
+#intro {
+    grid-area: intro;
 }
 
 #overskrift {
@@ -88,4 +103,40 @@ li a:hover {
 
 #csstekst {
     grid-area: csstekst;
+}
+
+#ovelse1nocss {
+    grid-area: ovelse1nocss;
+}
+
+#nocsspicture {
+    grid-area: nocsspicture;
+}
+
+#ovelse1medcss {
+    grid-area: ovelse1medcss;
+}
+
+#csspicture {
+    grid-area: csspicture;
+}
+
+#workshop {
+    grid-area: workshop;
+}
+
+#workshoppicture {
+    grid-area: workshoppicture;
+}
+
+#grid {
+    grid-area: grid;
+}
+
+#onepage {
+    grid-area: onepage;
+}
+
+#onepagebilled {
+    grid-area: onepagebilled;
 }
