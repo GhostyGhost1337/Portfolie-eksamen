@@ -15,35 +15,50 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
 p {
     color: white;
+    text-align: center;
     font-size: 1.5em;
     font-family: 'monsterrat', sans-serif;
 }
 
 ul {
-    list-style-type: none; /* vi fjerner symboler for hvert punkt */
+    list-style-type: none; /* fjerner symboler for hvert punkt */
     margin: 0;
     padding: 0;
-    overflow: hidden; /* så evt. længere tekst ikke ryger ud af boksen */
+    overflow: hidden; 
     background-color: #000; 
 }
 
 li {
-    float: left; /* hvert element skal flyde til venstre */
+    float: left; 
     text-align: center;
     
 }
 
 li a {
-    display: block; /* elementet skal opføre sig som en blok */
-    width: 8em; /* bredde */
+    display: block; /* elementet opføre sig som en blok */
+    width: 8.8em; 
     color: #fff;
-    padding: 0.5em 0.1em; /* forskellig padding på vandrette og lodrette flader */
-    text-decoration: none; /* væk med understregning */
+    padding: 0.5em 0.1em; /* padding på vandrette og lodrette flader */
+    text-decoration: none; 
 }
 
-li a:hover { /* og lidt anderledes styling når man hover */
+li a:hover { 
     background-color: #ccc;
     color: #000;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

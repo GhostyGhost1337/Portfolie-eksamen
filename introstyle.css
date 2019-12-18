@@ -17,11 +17,13 @@ h1 {
 
 h2 {
     color: white;
+    text-align: center;
     font-size: 2em;
 }
 
 p {
     color: white;
+    text-align: center;
     font-size: 1.5em;
     font-family: 'monsterrat', sans-serif;
 }
@@ -51,6 +53,14 @@ li a {
 li a:hover { 
     background-color: #ccc;
     color: #000;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
