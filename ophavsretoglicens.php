@@ -10,9 +10,18 @@
 	</head>
 
         <body>
-             <section id="menu">
+            <section id="menu">
                 <?php include 'menu.inc';?>
-                </section>
-            <p>Hello world</p>
+            </section>
+            
+            <section id="overskrift">
+            <h1>Ophavsret og licenser</h1>
+            </section>
+            
+            <section id="opgave">
+            <h2>Som opgave skulle vi skrive om emnet og researche</h2>
+                
+            <p></p>
+            </section>
             
         </body>

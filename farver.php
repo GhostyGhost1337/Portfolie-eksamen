@@ -38,6 +38,8 @@
             <img src="images/farve3.PNG">
                 
             <p>Ved at ændre i kulør mætning og lyshed kan man skabe en stemning på sine farver det kan være man går meget i gråtoner og lav brightness som skaber en dyster stemning eller også vil du måske have så stærke farve toner som muligt måske til animationer.</p>
+                
+            <p>Kilden brugt til teorien er <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-14">farvelaere pdf fra moodlerooms</a> og <a href="https://www.youtube.com/watch?v=Qj1FK8n7WgY&feature=youtu.be">youtube link til understanding color</a></p>
             </section>
             
             <section id="sammen">
@@ -48,6 +50,8 @@
             <img src="images/farve4.PNG">
                 
             <p>Der er teori om farvesammensætningen, hvor man gør brug af farvehjulet til at sætte eksempelvis komplementær farver op så har man to farver på, hver sin side af hjulet som ville passe godt sammen.</p>
+            
+            <p>og farvesammentsætning bruger samme kilder som ovenfor</p>
                 
             <p>Efter alt farve teorien skulle vi så ud og tage billeder med telefon for at finde noget i den vide verden som kunne underbygge noget teori. I min gruppe tog vi dette billede som brugte ANALOG med de farver der er tætte på hinanden på farvecirklen som i dette tilfælde var orange og gul</p>
                 
