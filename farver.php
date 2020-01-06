@@ -56,5 +56,7 @@
             <p>Efter alt farve teorien skulle vi så ud og tage billeder med telefon for at finde noget i den vide verden som kunne underbygge noget teori. I min gruppe tog vi dette billede som brugte ANALOG med de farver der er tætte på hinanden på farvecirklen som i dette tilfælde var orange og gul</p>
                 
             <img src="images/farve5.PNG">
+                
+            <p><a href="farver.php#menu">Back to top</a></p>
             </section>
         </body>

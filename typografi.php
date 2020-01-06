@@ -50,5 +50,7 @@
                 
             <img src="images/typo5.PNG">
             <img src="images/typo6.PNG">
+                
+            <p><a href="typografi.php#menu">Back to top</a></p>
             </section>
         </body>

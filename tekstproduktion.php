@@ -48,6 +48,8 @@
             <img src="images/tekst5.PNG">
                 
             <p>Billeder fra opgaveaflevering på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-16">moodlerooms</a></p>
+                
+            <p><a href="tekstproduktion.php#menu">Back to top</a></p>
             </section>
             
         </body>

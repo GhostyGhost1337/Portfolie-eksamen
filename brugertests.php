@@ -93,5 +93,7 @@
             <img src="images/tidslinje.PNG">
                 
             <p>Der er en del tests på tidslinjen og det er fordi når det rigtigt gælder så er det vigtigt at lave masser af tests af en hjemmeside før den kan presenteres for kunden til brug.</p>
+                
+            <p><a href="brugertests.php#menu">Back to top</a></p>
             </section> <!--Her slutter opgave 2-->
         </body>

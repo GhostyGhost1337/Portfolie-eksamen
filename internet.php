@@ -44,5 +44,7 @@
             <img src="images/2010.PNG">
                 
             <p>Med smartphones og tablets på markedet begyndte man at blive nød til at indrette hjemmesider sådan de også kunne bruges på de mindre skærme frem for at de var lavet til stationære computere med store skærme. Det gjorde at man begyndte at lave apps til mange hjemmesider som gjorde det nemt at adskille hjemmesiden og appen så man kunne designe til begge.</p>
+                
+            <p><a href="internet.php#menu">Back to top</a></p>
             </section>
         </body>
