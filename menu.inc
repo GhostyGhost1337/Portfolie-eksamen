@@ -12,7 +12,7 @@
                 <li><a href="gestalt.php">Gestalt lovene</a></li>
                 <li><a href="businessmodelcanvas.php">Business model canvas BMC</a></li>
                 <li><a href="informationsarkitektur.php">Informationsarkitektur</a></li>
-                <li><a href="ophavsretoglicens.php">Ophavsret og licens</a></li>
+                <li><a href="ophavsretoglicens.php">Ophavsret og de 2 store</a></li>
                 <li><a href=""></a></li>
             </ul>
         </nav>

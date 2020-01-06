@@ -21,6 +21,8 @@
             <section id="opgave">
             <h2>Som opgave skulle vi skrive om emnet og researche</h2>
                 
+            <h2>De 2 store der står i navigationen er designthinking projektet og onepage projektet</h2>
+                
             <p>Først undersøgte jeg persondataloven</p>
                 
             <p>Persondataloven omhandler følsomme data om individer som ikke må offentliggøres i nogen sammenhæng med mindre der er givet samtykke. Der er også håndtering af almindelige persondata som ikke kræver samtykke det kan være i forbindelse med jobs. 
@@ -121,6 +123,67 @@
             <p>CC BY-NC-ND er brugt ved https://en.wikipedia.org/wiki/Move_Under_Ground</p>
                 
             <h2>Alle kilderne brugt er sat som fodnoter i det afleverede dokument på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-22">moodlerooms</a></h2>
+            </section>
+            
+            <section id="designthink">
+                
+            <h2>Designthinking projektet</h2>
+                
+            <p>I vores designthinking projekt var vi i grupper og skulle gennem projektet lave 5 videoer som går over de 6 faser i projektet som var.</p>
+            
+            <p>Empathize, Definer problemet, ideate, prototype, test og implementering. De 5 videoer vi skulle aflevere kommer så her i den rækkefølge vi skulle lave dem i.</p>
+            
+            <video src="designthinking/part1.mp4" width="640" height="360" controls="controls"></video>
+            
+            <video src="designthinking/part2.mp4" width="640" height="360" controls="controls"></video>
+                
+            <video src="designthinking/part3.mp4" width="640" height="360" controls="controls"></video>
+                
+            <video src="designthinking/part4.mp4" width="640" height="360" controls="controls"></video>
+                
+            <video src="designthinking/part5.mp4" width="640" height="360" controls="controls"></video>
+            </section>
+            
+            <section id="onepage">
+            <h2>Onepage</h2>
+                
+            <p>Onepage projektet som vi skulle arbejde med var delt op i 5 dele og rammerne for siden var at lave en onepage og bruge et produkt. Produktet i mit tilfælde var så whiskas catmilk.</p>
+                
+            <p>De 5 dele hed 1 projektetablering, 2 research, 3 design, 4 produktion og 5 aflevering og præsentation</p>
+                
+            <p><a href="http://tobi21832.apache.eadania.dk/">Link til onepage siden</a></p>
+                
+            <p>Del 1 var altså at snakke med sin gruppe om forventinger til opgaven og eventuelle problemer der ville dukke op mens opgaven var i gang.</p>
+                
+            <p>Del 2 var research her arbjede vi med at finde ud af, hvilen slags side vores onepage skulle være.</p>
+                
+            <p>Det gjorde vi ved at brainstorme ideer til, hvad man kunne lave med whiskas catmilk og søge på nettet om produktet og information på katte.</p>
+                
+            <p>Her har jeg så 3 billeder fra vores brainstorming.</p>
+                
+            <img src="images/vinkel.jpg">
+            <img src="images/brainstorm1.jpg">
+            <img src="images/brainstorm2.jpg">
+                
+            <p>Gennem vores research del fandt vi så ud af at katte ikke kunne tåle laktose og alle dem vi nænvte det for vidste det heller ikke.</p>
+                
+            <p>Det byggede vi så vores grundlag på siden udfra så vi blev enige om at lave en side med does and donts til nye katteejere.</p>
+                
+            <p>Del 3 var så designet af siden som vi skulle aflevere en video til gennemgangen af design delen.</p>
+                
+            <video src="onepage/designonepage.mp4" width="640" height="360" controls="controls"></video>
+                
+            <p>Del 4 var i bund og grund selve siden der skulle laves og koden som skulle arbejdes med på github <a href="https://github.com/GhostyGhost1337/Whiskas-kode">link til onepage github</a></p>
+                
+            <p>og del 5 var selve præsentationen</p>
+            </section>
+            
+            <section id=begrundelse>
+            <h2>Hvorfor har jeg designet siden som jeg har?</h2>
+                
+            <p>Jeg har først og fremmest tænkt på, hvem siden er vigtig for som er mig selv. Derfor ville jeg lave siden med det de simple design af en sort baggrund med hvid tekst da jeg finder det irriternde at skulle læse en masse tekst på sider med eksempelvis hvid baggrund det skære som reelt i øjenene at læse i længere tid så defor kan jeg godt lide når den mentalitet er omvendt da teksten af det vigtige indhold og ikke baggrunden. Derudover har jeg i min navigation brugt back to top knapper på nogle sider da jeg følte at nogle af dem er lidt lange i forhold til andre som hjælper med at komme videre til næste side lidt hurtigere. Min indeling af tingene kan måske virke lidt mærkeligt men jeg vil altid huske de 2 store som designthinking og onepage projektet når jeg kigger på første semester.</p>
+                
+            <p>Indelingen af, hvad der er på hver side og om det skulle have en side for sig selv var lidt et forsøg på at dele det hele ind i vores moodle forløb så jeg fulgte det i den rækkefølge som det var sat op i grundlæggende faglighed 1. semester dog med lidt frihed til at samle html og css under den første fane selvom vi har haft flere forløb med arbejde i html og css.</p>
             </section>
             
         </body>
