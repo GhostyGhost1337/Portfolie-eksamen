@@ -36,6 +36,8 @@
             <img src="images/IA1.PNG">
                 
             <img src="images/IA2.PNG">
+                
+            <p>Opgaven har jeg så lavet ved hjælp af den toeri som jeg fik fra <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-21">pdf på moodleroom</a> og side 165 til 180 i bogen kommunikation i multimediedesign</p>
             </section>
             
         </body>

@@ -32,6 +32,8 @@
                 
             <p>Da det kom til de 5 grundantagelser fik vi aldrig skrevet noget til den tredje</p>
                 
+            <img src="images/grundantagelser.PNG">
+                
             <p>Kilde til billedet er <a href="https://eadania.mrooms.net/mod/forum/discuss.php?d=1625">Diskussion på moodlerooms</a></p>
                 
             <p>Men som tilfyld til den tredje har jeg skrevet fra kilden kom i praksis kap 1 pdf på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-4">Moodleroom</a></p>

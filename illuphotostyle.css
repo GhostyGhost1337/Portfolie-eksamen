@@ -4,25 +4,25 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 }
 
 body {
-    background-color: black;
+    background-color: #252525;
 }
 
 
 h1 {
     text-align: center;
-    color: white;
+    color: #ebebeb;
     font-size: 2.5em;
     font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
-    color: white;
+    color: #ebebeb;
     text-align: center;
     font-size: 2em;
 }
 
 p {
-    color: white;
+    color: #ebebeb;
     text-align: center;
     font-size: 1.5em;
     font-family: 'monsterrat', sans-serif;
@@ -33,8 +33,9 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden; 
-    background-color: #000; 
+    background-color: #202020; 
 }
+
 
 li {
     float: left; 

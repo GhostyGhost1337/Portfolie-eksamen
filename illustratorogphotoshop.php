@@ -21,7 +21,7 @@
             <section id="photoshop">
             <h2>Photoshop</h2>
                 
-            <p>Photoshop startede vi ud med at lære at sætte vores eget workspace op som på billedet har jeg så sat det op sådan jeg altid ville kunne se mine layers da det var en vigtig ting at kunne holde styr på, hvilket layer man arbejder i for at lave ændringer på det man gerne ville. Jeg lærte om opsætningen af mit workspace fra <a hred="https://eadania.mrooms.net/course/view.php?id=1604#section-12">Moodleroom</a></p>
+            <p>Photoshop startede vi ud med at lære at sætte vores eget workspace op som på billedet har jeg så sat det op sådan jeg altid ville kunne se mine layers da det var en vigtig ting at kunne holde styr på, hvilket layer man arbejder i for at lave ændringer på det man gerne ville. Jeg lærte om opsætningen af mit workspace fra <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-12">Moodleroom</a></p>
                 
             <img src="images/Photoshop%20eksempel.PNG">
                 

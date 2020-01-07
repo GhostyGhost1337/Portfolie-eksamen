@@ -60,14 +60,14 @@
                 </p>
                 
                 <p>
-                Class selectors kan så bruges i tilfælde, hvor man vil ramme flere elementer det kunne man gøre med paragraf også, hvis man ville ramme mere end en men ikke alle sine paragrafs med den styling man nu ønsker. Kilde til CSS introen <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-3"> pdf "into til css" fra moodlerooms </a>
+                Class selectors kan så bruges i tilfælde, hvor man vil ramme flere elementer det kunne man gøre med paragraf også, hvis man ville ramme mere end en men ikke alle sine paragrafs med den styling man nu ønsker. Kilde til CSS introen <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-3"> pdf "intro til css" fra moodlerooms </a>
                 </p>
                 </section>
                 
                 <section id="ovelse1nocss">
                 <p>Hvad har jeg så brugt HTML og CSS til?</p>
                     
-                <p>Meget tidligt i undervisningen fik vi en opgave med HTML som vi senere skulle style med CSS også det var ovelse1</p>
+                <p>Meget tidligt i undervisningen fik vi en opgave med HTML som vi senere skulle style med CSS det var ovelse1</p>
                     
                 <p>Opgaven gik ud på at vi skulle lave 3 sider og linke dem sammen det gjorde jeg med a tagget eller anchor. Den første side var om det tags vi kendte og, hvad vi vidste om HTML i forvejen. 
                 </p>
