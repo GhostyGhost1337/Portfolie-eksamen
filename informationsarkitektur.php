@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="infostyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
             <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -40,4 +41,9 @@
             <p>Opgaven har jeg så lavet ved hjælp af den toeri som jeg fik fra <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-21">pdf på moodleroom</a> og side 165 til 180 i bogen kommunikation i multimediedesign</p>
             </section>
             
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Informationsarkitektur var ikke noget jeg havde hørt om førhen og med opgaven vi fik så jeg hurtigt brugen af det på sider jeg bruger både til dagligt brug og salgssider. Det giver for mig et indblik i, hvordan sider skal struktureres fremover.</p>
+            </section>
         </body>

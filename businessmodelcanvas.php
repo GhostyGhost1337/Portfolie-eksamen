@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="bmcstyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
              <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -32,4 +33,9 @@
             <p>Kilder eget billede, kapitel 1 Business model generation og <a href="https://www.youtube.com/watch?time_continue=29&v=QgICyLzZ3og&feature=emb_logo">Youtube link</a>Som er på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-18">moodlerooms</a></p>
             </section>
             
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>BMC har været helt nyt for mig og har derfor givet mig en måde at se på business. Det har givet mig en model som jeg kan bruge til at få større overblik over en buisness.</p>
+            </section>
         </body>

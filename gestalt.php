@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="gestaltstyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
             <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -52,4 +53,9 @@
             <p>Billede fra pdf på <a href="https://eadania.mrooms.net/mod/forum/discuss.php?d=1959">moodleroom discussion</a></p>
             </section>
             
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg har førhen arbejdet med gestalt lovene på gymnasiet så det meste af det var ikke nyt for mig. Jeg har dog fået et større indblik på at der var flere design love at følge end bare de gestalt love som jeg havde arbejdet med førhen.</p>
+            </section>
         </body>

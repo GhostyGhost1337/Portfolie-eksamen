@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="tekststyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
            <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -49,7 +50,16 @@
                 
             <p>Billeder fra opgaveaflevering på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-16">moodlerooms</a></p>
                 
-            <p><a href="tekstproduktion.php#menu">Back to top</a></p>
+            
             </section>
             
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Noget af tekstproduktionen er lidt common sense men at skrive en artikkel er ikke noget jeg følte vi var klædt på til. Det var dog en første gang for mange tænker jeg men at få et indblik på, hvordan tekster skal være forskellige alt efter mediet her kunne det være seriøsiteten af teksten man udformer eller, hvem der rent faktisk ville se teksten på det medie.</p>
+            </section>
+            
+            <section id="top">
+            <p><a href="tekstproduktion.php#menu">Back to top</a></p>
+            </section>
         </body>

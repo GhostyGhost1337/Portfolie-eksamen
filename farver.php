@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="farvestyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
              <section id="menu">
                 <?php include 'menu.inc';?>
                 </section>
@@ -57,6 +58,15 @@
                 
             <img src="images/farve5.PNG">
                 
+            </section>
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg har førhen arbejdet med farveteori men på første semester af multimediedesign er det godt for mig at få opfrisktet nogle ting. Her fik jeg desuden også mere viden på farve området i forhold til design, fremfor bare at have hørt farve toeri førhen.</p>
+            </section>
+            
+            <section id="top">
             <p><a href="farver.php#menu">Back to top</a></p>
             </section>
         </body>

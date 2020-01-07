@@ -6,11 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Portfolie Tobias H Madsen</title>
         <link href="introstyle.css" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet"> <!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
-            <section id="htmlcssgrid"> <!--Her starter griddet-->
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
                 <section id="menu">
                 <?php include 'menu.inc';?>
                 </section>
@@ -153,8 +152,15 @@
                 <p>Så her har jeg indelt griddet i navne fremfor bogstaver så man har overblik over, hvad er hvad</p>
                 
                 <img src="images/gridonepage.PNG">
-                <p><a href="index.php#menu">Back to top</a></p>
                 </section>
-            </section> <!--Her slutter griddet-->
+                
+                <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg havde meget minimalt viden om, hvad HTML og CSS var før jeg startede på studiet, og vil sige det er noget af en kamp at få til at fungere nogle gange. Det har dog ikke taget modet fra mig og håber på at kunne lave hjemmesider der ser delvis professionelle ud når jeg er færdig på studiet.</p>
+                </section>
+                
+                <section id="top">
+                <p><a href="index.php#menu">Back to top</a></p></section>
         </body>
       

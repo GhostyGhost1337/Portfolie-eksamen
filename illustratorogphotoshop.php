@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="illuphotostyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
              <section id="menu">
                 <?php include 'menu.inc';?>
                 </section>
@@ -34,5 +35,11 @@
             <p>I illustrator lavede jeg i en 2 mands gruppe et seamless pattern som vi skulle fremvise for resten af klassen og forklare, hvordan man lavede det. Så det vi gjorde, var at vi fandt et billede som blev paws.svg som vi placerede på et artboard. Dem lavede vi kopier af som vi lavede om til et pattern, ved at groupe dem og efter vi fik baggrund på trække den over i swatches panelet når man så bruger den swatch kan man lave firkanter stjerner osv med det pattern. Gruppen og kilden vi brugte ligger på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-19">Moodlerooms</a></p>
                 
             <img src="images/Seamless%20pattern%20eksempel.PNG">
+            </section>
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg havde ikke rigtigt rørt photoshop og illustrator før multimediedesigner uddannelsen. Jeg har også været syg da vi blev undervist i photoshop men har som nævnt arbjedet med opgaver jeg fik fra en medstuderende som jeg kan øve mig med i photoshop, men føler ikke jeg er helt forberedt på at arbejde med de 2 værktøjer helt i nu.</p>
             </section>
         </body>

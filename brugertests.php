@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="brugerstyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
            <section id="menu">
                 <?php include 'menu.inc';?>
                 </section>
@@ -94,6 +95,15 @@
                 
             <p>Der er en del tests på tidslinjen og det er fordi når det rigtigt gælder så er det vigtigt at lave masser af tests af en hjemmeside før den kan presenteres for kunden til brug.</p>
                 
-            <p><a href="brugertests.php#menu">Back to top</a></p>
             </section> <!--Her slutter opgave 2-->
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg har arbejdet med brugertests før fra gymnasium så at gå i gennem nogle af de samme ting var stadig en fed opfrisker. Sammentidig så fik jeg også set, hvordan andre ville gribe test af hjemmesider an som gav en ide om, hvordan jeg selv skal arbejde med det fremover.</p>
+            </section>
+            
+            <section id="top">
+            <p><a href="brugertests.php#menu">Back to top</a></p>
+            </section>
         </body>

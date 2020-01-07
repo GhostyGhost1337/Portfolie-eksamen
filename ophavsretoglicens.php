@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="licensstyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
             <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -133,7 +134,7 @@
             
             <p>Empathize, Definer problemet, ideate, prototype, test og implementering. De 5 videoer vi skulle aflevere kommer så her i den rækkefølge vi skulle lave dem i.</p>
             
-            <video src="designthinking/part1.mp4" width="640" height="360" controls="controls"></video>
+            <video src="designthinking/part1.mp4" width="640" height="360" controls="controls"></video> <!--Bestem bredde og højde så de ikke er eventuelt forskelleige størrelser og så har controls gjort man kan styre lyd og starte og pause-->
             
             <video src="designthinking/part2.mp4" width="640" height="360" controls="controls"></video>
                 
@@ -184,8 +185,21 @@
             <p>Jeg har først og fremmest tænkt på, hvem siden er vigtig for som er mig selv. Derfor ville jeg lave siden med det de simple design af en mørk baggrund med hvid tekst da jeg finder det irriternde at skulle læse en masse tekst på sider med eksempelvis, hvid baggrund det stresser nogle gange øjenene at læse i længere tid så defor kan jeg godt lide når den mentalitet er omvendt, da teksten af det vigtige indhold og ikke baggrunden. Det gør det lidt nemmere end at skifte lysstyrken på skærmen hele tiden. Derudover har jeg i min navigation brugt back to top knapper på nogle sider da jeg følte at nogle af dem er lidt lange i forhold til andre som hjælper med at komme videre til næste side lidt hurtigere. Min indeling af tingene kan måske virke lidt mærkeligt men jeg vil altid huske de 2 store som designthinking og onepage projektet når jeg kigger på første semester.</p>
                 
             <p>Indelingen af, hvad der er på hver side og om det skulle have en side for sig selv var lidt et forsøg på at dele det hele ind i vores moodle forløb så jeg fulgte det i den rækkefølge som det var sat op i grundlæggende faglighed 1. semester dog med lidt frihed til at samle html og css under den første fane selvom vi har haft flere forløb med arbejde i html og css.</p>
+                    
+            </section>
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Det eneste jeg vidste før vi fik opgaven om ophavsret og licenser var at man i skole arbejde ikke behøves at tage sig af copyright som et problem, da man ikke kommer til at tjene penge på det man arbejder med. Så at undersøge de her love og regler gav mig en ide om, hvordan ophavsretten virker på nettet og jeg fandt ud af de licenser eksisterede.</p>
                 
-            <p><a href="ophavsretoglicens.php#menu">Back to top</a></p>    
+                <p>Designthinking var helt nyt for mig og lidt grænseoverskridende da vi skulle ud og interviewe folk som jeg altid har syntes var lidt stressende. Selve opgaven var også lidt mærkelig i den forstand at man ikke måtte spring mellem faserne som jeg tit gjorde førhen i andre opgaver. Så man kan sige det var et lukket flow. Men opagven tog ellers brug af metoder jeg havde brugt før såsom brainstorming osv.</p>
+                
+                <p>Onepage var ikke noget jeg havde hørt om før jeg troede slet ikke det var et begreb om sider. Opgaven havde også det her lidt lukkede flow, da man ikke skulle gå mellem de dele den var delt op i men at man skulle blive færdig med en ting før den anden som igen ikke var noget jeg plejdede at gøre før dania. Men arbjede med at skitsere og lave prototyper har jeg rørt førhen som var noget jeg kunne genkende i processen både med designthinking og onepage opgaven.</p>
+            </section>
+            
+            <section id="top">
+            <p><a href="ophavsretoglicens.php#menu">Back to top</a></p>
             </section>
             
         </body>

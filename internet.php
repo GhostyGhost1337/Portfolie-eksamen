@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link rel="stylesheet" href="internetstyle.css">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body> <!--Eventuelt lav det så jeg kan vise pc og mobile med 2 grids i stylesheetet-->
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
             <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -45,6 +46,15 @@
                 
             <p>Med smartphones og tablets på markedet begyndte man at blive nød til at indrette hjemmesider sådan de også kunne bruges på de mindre skærme frem for at de var lavet til stationære computere med store skærme. Det gjorde at man begyndte at lave apps til mange hjemmesider som gjorde det nemt at adskille hjemmesiden og appen så man kunne designe til begge.</p>
                 
+            </section>
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Internettets historie føltes lidt som fyld på studiet udover at vide, hvordan det hele tiden udvikler sig og at mobil og tablet er ekstremt vigtigt i dag. Så at lære om at lave hjemmesider der virker godt på flere platforme gav mere mening pga forløbet om det.</p>
+            </section>
+            
+            <section id="top">
             <p><a href="internet.php#menu">Back to top</a></p>
             </section>
         </body>

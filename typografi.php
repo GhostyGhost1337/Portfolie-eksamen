@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="typostyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
             <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -52,5 +53,15 @@
             <img src="images/typo6.PNG">
                 
             <p><a href="typografi.php#menu">Back to top</a></p>
+            </section>
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Typografi havde jeg aldrig tænkt over særlig meget når man skriver til andre. Jeg ville selvfølgelig aldrig før uddannelsen vælge en skrifttype som var svær at læse men at få lidt mere indblik på familier i skrifttyper tænker jeg gør det nemmere at finde ud af, hvilken skrifttype der passer til det scenarie man befinder sig i.</p>
+            </section>
+            
+            <section id="top">
+                <p><a href="typografi.php#menu">Back to top</a></p>
             </section>
         </body>

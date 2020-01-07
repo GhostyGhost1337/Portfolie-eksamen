@@ -7,9 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="versionstyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
              <section id="menu">
                 <?php include 'menu.inc';?>
                 </section>
@@ -27,4 +28,11 @@
                 
             <p>Kilden til versionsstyring er <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-9">powerpoint fra moodlerooms</a> og billedet er fra github desktopappen.</p>
             </section>
+            
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg kendte til ting som dropboks før men havde ikke set værdien i af gemme sine ting i skyen og heller ikke et redskab så bredt som github. Med bredt mener jeg at man kan arbejde i flere branches som giver en ekstra backup og også at man kan se historien for sine uploads så man kan se tilbage på, hvad man havde før så man altid kan komme tilbage til gamle filer. Det er et fedt tool at have adgang til.</p>
+            </section>
+            
         </body>

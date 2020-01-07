@@ -7,10 +7,10 @@
 		<title>Portfolie Tobias H Madsen</title>
         <link href="komstyle.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
+	<!--Fonten jeg bruger på det meste af siden-->
 	</head>
 
-        <body>
-        <section id="kommgrid"> <!--grid starter her-->
+        <body> <!--Smid generelt id på sections for overblik på, hvor indholdet er på siden-->
             <section id="menu">
                 <?php include 'menu.inc';?>
             </section>
@@ -90,8 +90,16 @@
                 
             <p>Og selve opgaven er afleveret på <a href="https://eadania.mrooms.net/course/view.php?id=1604#section-11">moodlerooms</a></p>
                 
-            <p><a href="kommunikation.php#menu">Back to top</a></p>
+            
             </section>
             
-        </section> <!--her slutter griddet-->
+            <section id="refleksion">
+                <h2>Refleksion</h2>
+                    
+                <p>Jeg har haft kommunikation og it som et fag på gymnasium så emnet var ikke nyt for mig men vil sige man får en bredere forståelse for, hvad kommunikation er end på gymnasiet. Havde aldrig tænkt på at der altid er en kommunikation tilstede og lærte helt klart, hvordan man bedre kan kommunikere ved fremlæggelser med powerpoint og at forskellige målgrupper og folkefærd ser forskelligt på kommunikation.</p>
+            </section>
+            
+            <section id="top">
+            <p><a href="kommunikation.php#menu">Back to top</a></p>
+            </section>
         </body>
